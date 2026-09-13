@@ -86,15 +86,3 @@ I am an undergraduate engineering student at **Birla Institute of Technology and
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemang3156&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hemang's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemang3156&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  ⭐ <i>Feel free to explore my repositories, open an issue, or connect with me on <a href="https://linkedin.com/in/hemang-garg-b7921a330">LinkedIn</a>!</i>
-</div>
