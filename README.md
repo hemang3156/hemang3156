@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Hemang Garg 👋</h1>
+  <h1>Hi there, I'm Hemang Garg </h1>
   <p><strong>B.E. Chemical Engineering + Minor in Data Science @ BITS Pilani, Hyderabad Campus</strong></p>
   <p>Passionate about Machine Learning, Computer Vision, Reinforcement Learning & Systems Engineering</p>
 
